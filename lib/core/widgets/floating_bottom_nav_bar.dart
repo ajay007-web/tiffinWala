@@ -20,7 +20,7 @@ class FloatingBottomNavBar extends StatelessWidget {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Container(
-        margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+        margin: const EdgeInsets.fromLTRB(16, 0, 16, 12),
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(28),
           boxShadow: AppShadows.floatingNav,

@@ -29,7 +29,7 @@ class TodaysMealCard extends StatelessWidget {
           decoration: BoxDecoration(
             color: AppColors.pureWhite,
             borderRadius: BorderRadius.circular(20),
-            boxShadow: AppShadows.sm,
+            boxShadow: AppShadows.cardElevated,
             border: Border.all(color: AppColors.charcoal100, width: 1),
           ),
           clipBehavior: Clip.antiAlias,
