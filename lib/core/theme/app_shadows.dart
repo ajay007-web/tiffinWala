@@ -60,4 +60,12 @@ class AppShadows {
       spreadRadius: 0,
     ),
   ];
+
+  static List<BoxShadow> cardElevated = [
+    const BoxShadow(
+      color: Color(0x0D000000),
+      offset: Offset(0, 6),
+      blurRadius: 18,
+    ),
+  ];
 }
