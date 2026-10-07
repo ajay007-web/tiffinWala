@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="14" fill="#F0F8F5"/>
+  <!-- UPI Geometric arrows/stripes -->
+  <path d="M22 42L36 18H44L30 42H22Z" fill="#097939"/>
+  <path d="M32 42L46 18H54L40 42H32Z" fill="#ED752E"/>
+  <path d="M12 42L26 18H30L16 42H12Z" fill="#0079C1"/>
+</svg>

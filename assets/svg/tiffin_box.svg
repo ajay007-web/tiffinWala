@@ -1,0 +1,28 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Top Handle -->
+  <path d="M22 14C22 8.47715 26.4772 4 32 4C37.5228 4 42 8.47715 42 14V17H22V14Z" stroke="#87BAAB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Central Locking Rod -->
+  <rect x="30" y="14" width="4" height="42" rx="2" fill="#6A9E8F"/>
+  
+  <!-- Top Tier / Lid -->
+  <rect x="14" y="17" width="36" height="11" rx="5" fill="#87BAAB"/>
+  <rect x="16" y="19" width="32" height="7" rx="3.5" fill="#A8D5C6"/>
+  <circle cx="32" cy="22.5" r="2.5" fill="#FFFFFF"/>
+
+  <!-- Middle Tier -->
+  <rect x="14" y="30" width="36" height="12" rx="5" fill="#87BAAB"/>
+  <rect x="16" y="32" width="32" height="8" rx="4" fill="#E8F5F0"/>
+  <path d="M20 36H44" stroke="#87BAAB" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Bottom Tier -->
+  <rect x="14" y="44" width="36" height="14" rx="5" fill="#6A9E8F"/>
+  <rect x="16" y="46" width="32" height="10" rx="4" fill="#87BAAB"/>
+  <path d="M20 51H44" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+
+  <!-- Side Clasps -->
+  <rect x="10" y="24" width="4" height="28" rx="2" fill="#6A9E8F"/>
+  <rect x="50" y="24" width="4" height="28" rx="2" fill="#6A9E8F"/>
+  <circle cx="12" cy="38" r="2" fill="#E8F5F0"/>
+  <circle cx="52" cy="38" r="2" fill="#E8F5F0"/>
+</svg>

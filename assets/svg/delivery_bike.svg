@@ -1,0 +1,22 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Wheels -->
+  <circle cx="16" cy="46" r="9" stroke="#1A1D1F" stroke-width="3"/>
+  <circle cx="16" cy="46" r="4" fill="#87BAAB"/>
+  <circle cx="48" cy="46" r="9" stroke="#1A1D1F" stroke-width="3"/>
+  <circle cx="48" cy="46" r="4" fill="#87BAAB"/>
+
+  <!-- Bike Frame -->
+  <path d="M16 46L26 34H36L44 46" stroke="#1A1D1F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M36 34L40 22H46" stroke="#1A1D1F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M26 34L23 24H19" stroke="#1A1D1F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Tiffin Box on Back Carrier -->
+  <rect x="8" y="22" width="16" height="13" rx="3" fill="#87BAAB"/>
+  <path d="M11 20H21" stroke="#6A9E8F" stroke-width="2" stroke-linecap="round"/>
+  <rect x="14" y="17" width="10" height="3" rx="1.5" fill="#6A9E8F"/>
+  
+  <!-- Headlight beam -->
+  <path d="M48 24L58 20" stroke="#F39C12" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M48 26L60 26" stroke="#F39C12" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+  <path d="M48 28L58 32" stroke="#F39C12" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+</svg>
